@@ -1,2 +1,6 @@
-# cpp-projects
-This repository contains basic C++ programs.
+# C++ Projects
+
+This repository contains basic C++ programs for my AI course.
+
+## Files
+- hello_world.cpp
